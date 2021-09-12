@@ -1,6 +1,3 @@
-# Credit
-
-Tutorial Series by Total Data Science @  https://tinyurl.com/yyja24z2 
 
  The objective of this project is 
  1. to  perform extensive Exploratory Data Analysis(EDA) on the Zomato Dataset. 
